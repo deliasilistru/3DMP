@@ -1,4 +1,4 @@
-The Final Project file includes the main pieces for the Flyng Sea Turtle Automata , a photo and a video of the model and the canvases (front view and side view) of the model.
+The Final Project file includes the main pieces for the Flying Sea Turtle Automata , a photo and a video of the model and the canvases (front view and side view) of the model.
 
 I chose to build the flying sea turtle because i love animals and when i saw this mechanism i was fascinated.
 
